@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-#learnings
+#Learnings
 While building this project, I learnt :
 - How to use Flutter themes to create coherent branding.
 - How to create multi-page apps using Flutter Routes and Navigator.
@@ -27,3 +27,10 @@ While building this project, I learnt :
 - Understand Dart Enums and the Ternary Operator.
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
+
+
+#App's Working
+
+https://user-images.githubusercontent.com/92632170/215351752-725c12b1-1a55-4533-bc55-7c19d2d4631c.mp4
+
+
